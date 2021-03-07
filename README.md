@@ -1,1 +1,2 @@
-# HELLO MY NAME IS WARREN AND THIS IS MY README
+# merge-conflict-demo 
+# Ryan and Warren's demo
